@@ -1,2 +1,3 @@
 # supercoolproject
-project
+
+This is a simple HTML page
